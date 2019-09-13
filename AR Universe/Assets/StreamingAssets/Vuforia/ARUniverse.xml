@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="7Spades" size="6.000000 9.467456" />
+    <ImageTarget name="Joker2" size="6.000000 9.536424" />
+    <ImageTarget name="Joker1" size="6.000000 9.387223" />
+    <ImageTarget name="9Spades" size="6.000000 9.436435" />
+    <ImageTarget name="6Hearts" size="6.000000 9.430255" />
+    <ImageTarget name="QueenOfHeart" size="6.000000 9.480249" />
+    <ImageTarget name="JackOfHeart" size="6.000000 9.353847" />
+    <ImageTarget name="tenOfHeart" size="6.000000 9.421488" />
+    <ImageTarget name="threeOfHeart" size="6.000000 9.469388" />
+    <ImageTarget name="imgAr" size="6.000000 9.467456" />
+  </Tracking>
+</QCARConfig>
